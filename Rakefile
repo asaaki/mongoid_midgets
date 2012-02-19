@@ -20,7 +20,7 @@ Jeweler::Tasks.new do |gem|
   gem.version = MongoidMidgets::VERSION
   gem.homepage = "http://github.com/asaaki/mongoid_midgets"
   gem.license = "MIT"
-  gem.summary = %Q{mongoid_midget meta/dependency gem for mongoid microgems}
+  gem.summary = %Q{meta/dependency gem for mongoid microgems}
   gem.description = %Q{mongoid_midget is a meta/dependency gem for my microgems.}
   gem.email = "chris@dinarrr.com"
   gem.authors = ["Christoph Grabo"]

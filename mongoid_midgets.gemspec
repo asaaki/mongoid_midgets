@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "mongoid_midgets"
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Christoph Grabo"]
@@ -13,21 +13,22 @@ Gem::Specification.new do |s|
   s.description = "mongoid_midget is a meta/dependency gem for my microgems."
   s.email = "chris@dinarrr.com"
   s.extra_rdoc_files = [
-    "README"
+    "README.md"
   ]
   s.files = [
     ".rvmrc",
     "Gemfile",
     "Gemfile.lock",
-    "README",
+    "README.md",
     "Rakefile",
-    "lib/mongoid_midgets.rb"
+    "lib/mongoid_midgets.rb",
+    "mongoid_midgets.gemspec"
   ]
   s.homepage = "http://github.com/asaaki/mongoid_midgets"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.15"
-  s.summary = "mongoid_midget meta/dependency gem for mongoid microgems"
+  s.summary = "meta/dependency gem for mongoid microgems"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
