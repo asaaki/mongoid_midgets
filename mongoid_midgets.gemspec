@@ -5,12 +5,12 @@
 
 Gem::Specification.new do |s|
   s.name = "mongoid_midgets"
-  s.version = "0.0.2"
+  s.version = "0.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Christoph Grabo"]
   s.date = "2012-02-19"
-  s.description = "mongoid_midget is a meta/dependency gem for my microgems."
+  s.description = "mongoid_midgets is a meta/dependency gem for my microgems."
   s.email = "chris@dinarrr.com"
   s.extra_rdoc_files = [
     "README.md"

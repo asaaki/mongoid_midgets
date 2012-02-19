@@ -21,7 +21,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/asaaki/mongoid_midgets"
   gem.license = "MIT"
   gem.summary = %Q{meta/dependency gem for mongoid microgems}
-  gem.description = %Q{mongoid_midget is a meta/dependency gem for my microgems.}
+  gem.description = %Q{mongoid_midgets is a meta/dependency gem for my microgems.}
   gem.email = "chris@dinarrr.com"
   gem.authors = ["Christoph Grabo"]
   # dependencies defined in Gemfile
